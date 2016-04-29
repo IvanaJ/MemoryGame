@@ -1,0 +1,9 @@
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.Form1.resources
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.Properties.Resources.resources
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.csproj.GenerateResource.Cache
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.exe
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.pdb
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.MemoryGame.resources
+D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.csprojResolveAssemblyReference.cache
