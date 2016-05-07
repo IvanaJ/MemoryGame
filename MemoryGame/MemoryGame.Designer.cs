@@ -295,6 +295,7 @@
             // 
             this.tbPoints.Location = new System.Drawing.Point(82, 543);
             this.tbPoints.Name = "tbPoints";
+            this.tbPoints.ReadOnly = true;
             this.tbPoints.Size = new System.Drawing.Size(100, 20);
             this.tbPoints.TabIndex = 1;
             // 

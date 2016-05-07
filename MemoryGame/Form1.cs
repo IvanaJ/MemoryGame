@@ -54,5 +54,12 @@ namespace MemoryGame
             btnWasClicked = true;
             PlaySound();
         }
+
+        private void btnHow_Click(object sender, EventArgs e)
+        {
+            HowToPlay rules = new HowToPlay();
+            this.Hide();
+            rules.ShowDialog();
+        }
     }
 }

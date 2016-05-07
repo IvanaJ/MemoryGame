@@ -133,4 +133,7 @@
   <data name="_1461957451_device_volume_loudspeaker_speaker_mute_glyph" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1461957451_device-volume-loudspeaker-speaker-mute-glyph.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_new" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

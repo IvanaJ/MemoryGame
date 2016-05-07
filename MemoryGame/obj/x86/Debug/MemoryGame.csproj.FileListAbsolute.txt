@@ -7,3 +7,13 @@ D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGam
 D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.pdb
 D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.MemoryGame.resources
 D:\Files\FAKULTET\III GODINA\ВИЗУЕЛНО ПРОГРАМИРАЊЕ\MemoryGame\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.exe
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.pdb
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.Form1.resources
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.MemoryGame.resources
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\Ivana Jakimovska\MemoryGame\MemoryGame\obj\x86\Debug\MemoryGame.HowToPlay.resources
