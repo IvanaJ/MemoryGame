@@ -24,16 +24,16 @@
 Доколку не успееме да ги погодиме сите парови полиња за 90 секунди тогаш играта е завршена и ни се покажува прозорец со прашање (Дали сакате нова игра?). Доколку кликнеме на копчето <b>„Да“</b> тогаш ни се отвара нова игра со рандом наместени полиња, а ако стиснеме<b> „НЕ“ </b>тогаш ни се гаси играта. 
 </p>
 
-![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/3.jpg)
+![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/3.png)
 <p>
 Кога ќе успееме да ја завршиме играта за помалку од 90 секунди тогаш ни се појавува прозорец со овоените поени.
 </p>
-![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/4.jpg)
+![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/4.png)
 
 <p>
 Со клик на копчето<b> HOW TO PLAY</b> ни се оствара и последната форма во која е дадено упатството за играње на играта. Исто така во долниот десен агол има копче<b> BACK</b>за да можеме да се вратиме на главната форма. 
 </p>
-![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/5.jpg)
+![alt text](https://github.com/IvanaJ/MemoryGame/blob/master/5.png)
 
 <h3>Опис на изворниот код</h3>
 
